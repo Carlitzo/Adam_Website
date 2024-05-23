@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+#wrapper {
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+    background-image: url(media/Images/FärdigaJazz35.jpg);
+    background-position: contain;
+}
