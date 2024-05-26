@@ -1,0 +1,24 @@
+@font-face {
+    font-family: Montserrat;
+    src: url(../fonts/Montserrat/Montserrat-VariableFont_wght.ttf)
+}
+
+#bannerContainer {
+    position: absolute;
+    left: 40%;
+    top: 40%;
+    text-align: center;
+}
+
+#bannerH1 {
+    color: whitesmoke;
+    font-family: Montserrat;
+    font-weight:300;
+}
+
+#bannerH2 {
+    color: whitesmoke;
+    font-family: Montserrat;
+    font-weight: lighter;
+    opacity: 0.8;
+}

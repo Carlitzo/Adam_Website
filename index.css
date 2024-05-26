@@ -7,9 +7,8 @@ body {
 }
 
 #wrapper {
-    height: 100vh;
-    width: 100vw;
+    height: 100%;
     margin: 0;
-    background-image: url(media/Images/FärdigaJazz35.jpg);
-    background-position: contain;
+    overflow: hidden;
+    padding: 0;
 }

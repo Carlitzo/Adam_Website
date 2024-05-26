@@ -1,2 +1,5 @@
 const wrapper = document.querySelector("#wrapper");
-// renderBackgroundVideo(wrapper);
+renderHeader(wrapper);
+renderBanner(wrapper);
+renderFooter(wrapper);
+renderBackgroundVideo(wrapper);

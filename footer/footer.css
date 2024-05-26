@@ -1,0 +1,15 @@
+#footerContainer {
+    display: flex;
+    flex-direction:row;
+    gap: 3rem;
+    position: absolute;
+    top:92%;
+    left:45%;
+    margin: 0;
+    margin-bottom: 1rem;
+    opacity: 0.7;
+}
+
+#footerContainer > a {
+    filter: invert(95%) sepia(0%) saturate(782%) hue-rotate(132deg) brightness(114%) contrast(92%);
+}
