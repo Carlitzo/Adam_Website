@@ -7,7 +7,7 @@ function renderHeader(parent) {
         <div id="headerHome">Home</div>
         <div id="headerMusic">Music</div>
         <div id="headerBands">Bands</div>
-        <div id="headerPIB">People In Orbit</div>
+        <div id="headerPIO">People In Orbit</div>
         <div id="headerContact">Contact</div>
     `
 }
